@@ -1,6 +1,6 @@
 # Nome do Projeto
 
-## História dos Ususários
+## História dos Usuários
 
 ```
 Como...
