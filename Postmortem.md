@@ -1,6 +1,6 @@
 #Nome do Projeto - #i(0..4)
 
-## Postmortem
+# Postmortem
 
 Início da Iteração | Término da iteração
 ------------ | -------------
@@ -23,6 +23,7 @@ xx/xx/xxxx | xx/xx/xxxx
 * Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
 * Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
 * Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
+> **Nota:** Levante o que não foi realizado e o seu respectivo impedimento.
 
 ### Planejado para próxima iteração
 * Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
@@ -33,3 +34,5 @@ xx/xx/xxxx | xx/xx/xxxx
 * Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
 * Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
 * Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
+> **Nota:** Levante foi aprendido nesta iteração, seja de carácter individual e/ou coletivo.
+
